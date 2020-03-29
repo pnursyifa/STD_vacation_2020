@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585472640 source:f:\telyu\onedrive - telkom university\smt ii\struktur data\tubes\vacation\main.cpp
+	"vacation.h"
+
+1585471802 f:\telyu\onedrive - telkom university\smt ii\struktur data\tubes\vacation\vacation.h
+	<iostream>
+
+1585472992 source:f:\telyu\onedrive - telkom university\smt ii\struktur data\tubes\vacation\vacation.cpp
+	"vacation.h"
+
